@@ -1,0 +1,2 @@
+plot.jpg
+coefficients.txt
